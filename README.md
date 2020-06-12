@@ -12,4 +12,4 @@ How to run it:
 
 1. For linux users: Do "python3 {path to the python file}"
 
-2. For windows users: Click on it bro lol or do "python {path to file}" on your CMD
+2. For windows users: Click on it bro lol or do "python {path to python file}" on your CMD
