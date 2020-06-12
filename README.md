@@ -1,3 +1,5 @@
+Fucking Keep My Monitor On
+
 idk you could have just used your os's settings but I guess you are as lazy as me.
 
 Installing dependencies:
